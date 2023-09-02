@@ -1,0 +1,10 @@
+275000 Hanzala
+100000 Ameen Bhai
+43000 Hanzala
+149500 Hanzala
+50000  Ameen Bhai
+
+Total = 567500
+May Salary = 621206
+
+Due Amount 3706
